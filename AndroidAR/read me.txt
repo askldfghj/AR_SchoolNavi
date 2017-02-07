@@ -1,0 +1,6 @@
+﻿AndroidARの説明。
+
+AndroidARは「GPSを利用したAR学校案内アプリ」のコードです。
+
+開発ツール：eclipse
+開発言語：JAVA

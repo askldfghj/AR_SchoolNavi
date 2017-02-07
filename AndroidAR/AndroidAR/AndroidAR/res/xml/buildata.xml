@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="utf-8"?>
+<build_list>
+    <build_set>
+        <lati lati = "35.075150">
+        </lati>
+        <long long = "129.086573">
+        </long>
+        <id id = "B1">
+        </id>
+        <dep dep = "행정실(233)/회의실(243)/세미나실(249)/다목적홀(253)">
+        </dep>
+        <name name = "공과대학 1호관">
+        </name>
+    </build_set>
+    <build_set>
+        <lati lati = "35.073972">
+        </lati>
+        <long long = "129.086802">
+        </long>
+        <id id = "B2">
+        </id>
+        <dep dep = "">
+        </dep>
+        <name name = "공과대학 2호관">
+        </name>
+    </build_set>
+    <build_set>
+        <lati lati = "35.074479">
+        </lati>
+        <long long = "129.087260">
+        </long>
+        <id id = "B3">
+        </id>
+        <dep dep = "합동강의실(101)/대학원 세미나실(238)/대강당(439)">
+        </dep>
+        <name name = "국제대학관">
+        </name>
+    </build_set>
+    <build_set>
+        <lati lati = "35.076012">
+        </lati>
+        <long long = "129.086773">
+        </long>
+        <id id = "B4">
+        </id>
+        <dep dep = "편의점(1층)/농협(1층)/학생종합민원실(1층)/학생식당(2층)/스낵코너(3층)/종합인력개발원(4층)">
+        </dep>
+        <name name = "어울림관">
+        </name>
+    </build_set>
+    <build_set>
+        <lati lati = "35.076040">
+        </lati>
+        <long long = "129.087290">
+        </long>
+        <id id = "B5">
+        </id>
+        <dep dep = "대출실(2층)/도서실 및 자료실(3~5층)">
+        </dep>
+        <name name = "도서관">
+        </name>
+    </build_set>
+    <build_set>
+        <lati lati = "35.073378">
+        </lati>
+        <long long = "129.087070">
+        </long>
+        <id id = "B6">
+        </id>
+        <dep dep = "종합실습관행정실">
+        </dep>
+        <name name = "종합연구관">
+        </name>
+    </build_set>
+    <build_set>
+        <lati lati = "35.076319">
+        </lati>
+        <long long = "129.087616">
+        </long>
+        <id id = "B7">
+        </id>
+        <dep dep = "">
+        </dep>
+        <name name = "미디어홀">
+        </name>
+    </build_set>
+    <build_set>
+        <lati lati = "35.074794">
+        </lati>
+        <long long = "129.088294">
+        </long>
+        <id id = "B8">
+        </id>
+        <dep dep = "학생복지과(1층)/입학장학과(1층)/총장실(3층)/산학협력단(5층)/교수회(5층)">
+        </dep>
+        <name name = "대학본부">
+        </name>
+    </build_set>
+    <build_set>
+        <lati lati = "35.074108">
+        </lati>
+        <long long = "129.088401">
+        </long>
+        <id id = "B9">
+        </id>
+        <dep dep = "">
+        </dep>
+        <name name = "레포츠센터">
+        </name>
+    </build_set>
+    <build_set>
+        <lati lati = "35.075780">
+        </lati>
+        <long long = "129.088904">
+        </long>
+        <id id = "B10">
+        </id>
+        <dep dep = "세미나실(230)/해사대학행정실(235)">
+        </dep>
+        <name name = "해사대학관">
+        </name>
+    </build_set>
+    <build_set>
+        <lati lati = "35.073982">
+        </lati>
+        <long long = "129.089338">
+        </long>
+        <id id = "B11">
+        </id>
+        <dep dep = "">
+        </dep>
+        <name name = "아산관">
+        </name>
+    </build_set>
+    <build_set>
+        <lati lati = "35.074692">
+        </lati>
+        <long long = "129.089567">
+        </long>
+        <id id = "B12">
+        </id>
+        <dep dep = "">
+        </dep>
+        <name name = "체육관">
+        </name>
+    </build_set>
+    <build_set>
+        <lati lati = "35.074309">
+        </lati>
+        <long long = "129.090216">
+        </long>
+        <id id = "B13">
+        </id>
+        <dep dep = "">
+        </dep>
+        <name name = "기념회관">
+        </name>
+    </build_set>
+    <build_set>
+        <lati lati = "35.077269">
+        </lati>
+        <long long = "129.088918">
+        </long>
+        <id id = "B14">
+        </id>
+        <dep dep = "종합강의실(100)/세미나실(259)">
+        </dep>
+        <name name = "해양과학기술대학관">
+        </name>
+    </build_set>
+    <build_set>
+        <lati lati = "35.077512">
+        </lati>
+        <long long = "129.090147">
+        </long>
+        <id id = "B15">
+        </id>
+        <dep dep = "">
+        </dep>
+        <name name = "대강당">
+        </name>
+    </build_set>
+    <build_set>
+        <lati lati = "35.076287">
+        </lati>
+        <long long = "129.090098">
+        </long>
+        <id id = "B16">
+        </id>
+        <dep dep = "행정실(1층)/국제해양문제연구소(3층)">
+        </dep>
+        <name name = "평생교육관">
+        </name>
+    </build_set>
+    <build_set>
+        <lati lati = "35.075652">
+        </lati>
+        <long long = "129.090497">
+        </long>
+        <id id = "B17">
+        </id>
+        <dep dep = "">
+        </dep>
+        <name name = "다솜관">
+        </name>
+    </build_set>
+    <build_set>
+        <lati lati = "35.076661">
+        </lati>
+        <long long = "129.090838">
+        </long>
+        <id id = "B18">
+        </id>
+        <dep dep = "">
+        </dep>
+        <name name = "입지관">
+        </name>
+    </build_set>
+    <build_set>
+        <lati lati = "35.077021">
+        </lati>
+        <long long = "129.091506">
+        </long>
+        <id id = "B19">
+        </id>
+        <dep dep = "">
+        </dep>
+        <name name = "웅비관">
+        </name>
+    </build_set>
+    <build_set>
+        <lati lati = "35.077859">
+        </lati>
+        <long long = "129.089921">
+        </long>
+        <id id = "B20">
+        </id>
+        <dep dep = "">
+        </dep>
+        <name name = "아라관">
+        </name>
+    </build_set>
+    <build_set>
+        <lati lati = "35.078226">
+        </lati>
+        <long long = "129.089882">
+        </long>
+        <id id = "B21">
+        </id>
+        <dep dep = "LINC사업단(2층)">
+        </dep>
+        <name name = "공동실험관">
+        </name>
+    </build_set>
+    <build_set>
+        <lati lati = "35.078457">
+        </lati>
+        <long long = "129.090448">
+        </long>
+        <id id = "B22">
+        </id>
+        <dep dep = "">
+        </dep>
+        <name name = "국제교류협력관">
+        </name>
+    </build_set>
+    <build_set>
+        <lati lati = "35.078745">
+        </lati>
+        <long long = "129.090950">
+        </long>
+        <id id = "B23">
+        </id>
+        <dep dep = "">
+        </dep>
+        <name name = "아치관">
+        </name>
+    </build_set>
+    <build_set>
+        <lati lati = "35.075448">
+        </lati>
+        <long long = "129.091341">
+        </long>
+        <id id = "B24">
+        </id>
+        <dep dep = "">
+        </dep>
+        <name name = "자갈마당">
+        </name>
+    </build_set>
+    <build_set>
+        <lati lati = "35.075890">
+        </lati>
+        <long long = "129.091085">
+        </long>
+        <id id = "B25">
+        </id>
+        <dep dep = "">
+        </dep>
+        <name name = "예섬회관">
+        </name>
+    </build_set>
+    <build_set>
+        <lati lati = "35.079132">
+        </lati>
+        <long long = "129.091833">
+        </long>
+        <id id = "B26">
+        </id>
+        <dep dep = "">
+        </dep>
+        <name name = "누리관">
+        </name>
+    </build_set>
+</build_list>

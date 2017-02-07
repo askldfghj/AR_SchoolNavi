@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="utf-8"?>
+<graph_list>
+    <graph_set>
+        <A A = "C1">            
+        </A>
+        <B B = "C2">
+        </B>
+    </graph_set>
+    <graph_set>
+        <A A = "C1">            
+        </A>
+        <B B = "C5">
+        </B>
+    </graph_set>
+    <graph_set>
+        <A A = "C1">            
+        </A>
+        <B B = "C36">
+        </B>
+    </graph_set>
+    <graph_set>
+        <A A = "C2">            
+        </A>
+        <B B = "B1">
+        </B>
+    </graph_set>
+    <graph_set>
+        <A A = "C2">            
+        </A>
+        <B B = "C3">
+        </B>
+    </graph_set>
+    <graph_set>
+        <A A = "C2">            
+        </A>
+        <B B = "C4">
+        </B>
+    </graph_set>
+    <graph_set>
+        <A A = "C3">            
+        </A>
+        <B B = "B1">
+        </B>
+    </graph_set>
+    <graph_set>
+        <A A = "C3">            
+        </A>
+        <B B = "C4">
+        </B>
+    </graph_set>
+    <graph_set>
+        <A A = "C3">            
+        </A>
+        <B B = "C38">
+        </B>
+    </graph_set>
+    <graph_set>
+        <A A = "C4">            
+        </A>
+        <B B = "C7">
+        </B>
+    </graph_set>
+    <graph_set>
+        <A A = "C4">            
+        </A>
+        <B B = "C20">
+        </B>
+    </graph_set>
+    <graph_set>
+        <A A = "C5">            
+        </A>
+        <B B = "B2">
+        </B>
+    </graph_set>
+    <graph_set>
+        <A A = "C5">            
+        </A>
+        <B B = "C6">
+        </B>
+    </graph_set>
+    <graph_set>
+        <A A = "C5">            
+        </A>
+        <B B = "C8">
+        </B>
+    </graph_set>
+    <graph_set>
+        <A A = "C6">            
+        </A>
+        <B B = "B2">
+        </B>
+    </graph_set>
+    <graph_set>
+        <A A = "C6">            
+        </A>
+        <B B = "C7">
+        </B>
+    </graph_set>
+    <graph_set>
+        <A A = "C6">            
+        </A>
+        <B B = "C9">
+        </B>
+    </graph_set>
+    <graph_set>
+        <A A = "C7">            
+        </A>
+        <B B = "B3">
+        </B>
+    </graph_set>
+    <graph_set>
+        <A A = "C7">            
+        </A>
+        <B B = "B8">
+        </B>
+    </graph_set>
+    <graph_set>
+        <A A = "C7">            
+        </A>
+        <B B = "C10">
+        </B>
+    </graph_set>
+    <graph_set>
+        <A A = "C8">            
+        </A>
+        <B B = "B6">
+        </B>
+    </graph_set>
+    <graph_set>
+        <A A = "C8">            
+        </A>
+        <B B = "C9">
+        </B>
+    </graph_set>
+    <graph_set>
+        <A A = "C8">            
+        </A>
+        <B B = "C12">
+        </B>
+    </graph_set>
+    <graph_set>
+        <A A = "C9">            
+        </A>
+        <B B = "C11">
+        </B>
+    </graph_set>
+    <graph_set>
+        <A A = "C10">            
+        </A>
+        <B B = "B3">
+        </B>
+    </graph_set>
+    <graph_set>
+        <A A = "C10">            
+        </A>
+        <B B = "B8">
+        </B>
+    </graph_set>
+    <graph_set>
+        <A A = "C10">            
+        </A>
+        <B B = "C11">
+        </B>
+    </graph_set>
+    <graph_set>
+        <A A = "C11">            
+        </A>
+        <B B = "C13">
+        </B>
+    </graph_set>
+    <graph_set>
+        <A A = "C12">            
+        </A>
+        <B B = "C15">
+        </B>
+    </graph_set>
+    <graph_set>
+        <A A = "C13">            
+        </A>
+        <B B = "B9">
+        </B>
+    </graph_set>
+    <graph_set>
+        <A A = "C13">            
+        </A>
+        <B B = "C14">
+        </B>
+    </graph_set>
+    <graph_set>
+        <A A = "C13">            
+        </A>
+        <B B = "C19">
+        </B>
+    </graph_set>
+    <graph_set>
+        <A A = "C14">            
+        </A>
+        <B B = "C15">
+        </B>
+    </graph_set>
+    <graph_set>
+        <A A = "C14">            
+        </A>
+        <B B = "C17">
+        </B>
+    </graph_set>
+    <graph_set>
+        <A A = "C15">            
+        </A>
+        <B B = "C16">
+        </B>
+    </graph_set>
+    <graph_set>
+        <A A = "C16">            
+        </A>
+        <B B = "C18">
+        </B>
+    </graph_set>
+    <graph_set>
+        <A A = "C17">            
+        </A>
+        <B B = "B11">
+        </B>
+    </graph_set>
+    <graph_set>
+        <A A = "C17">            
+        </A>
+        <B B = "C18">
+        </B>
+    </graph_set>
+    <graph_set>
+        <A A = "C17">            
+        </A>
+        <B B = "C19">
+        </B>
+    </graph_set>
+    <graph_set>
+        <A A = "C18">            
+        </A>
+        <B B = "B13">
+        </B>
+    </graph_set>
+    <graph_set>
+        <A A = "C18">            
+        </A>
+        <B B = "C19">
+        </B>
+    </graph_set>
+    <graph_set>
+        <A A = "C19">            
+        </A>
+        <B B = "B12">
+        </B>
+    </graph_set>
+    <graph_set>
+        <A A = "C19">            
+        </A>
+        <B B = "C20">
+        </B>
+    </graph_set>
+    <graph_set>
+        <A A = "C19">            
+        </A>
+        <B B = "C24">
+        </B>
+    </graph_set>
+    <graph_set>
+        <A A = "C20">            
+        </A>
+        <B B = "B10">
+        </B>
+    </graph_set>
+    <graph_set>
+        <A A = "C20">            
+        </A>
+        <B B = "C21">
+        </B>
+    </graph_set>
+    <graph_set>
+        <A A = "C21">            
+        </A>
+        <B B = "B7">
+        </B>
+    </graph_set>
+    <graph_set>
+        <A A = "C21">            
+        </A>
+        <B B = "C33">
+        </B>
+    </graph_set>
+    <graph_set>
+        <A A = "C21">            
+        </A>
+        <B B = "C37">
+        </B>
+    </graph_set>
+    <graph_set>
+        <A A = "C21">            
+        </A>
+        <B B = "C39">
+        </B>
+    </graph_set>
+    <graph_set>
+        <A A = "C22">            
+        </A>
+        <B B = "B14">
+        </B>
+    </graph_set>
+    <graph_set>
+        <A A = "C22">            
+        </A>
+        <B B = "C23">
+        </B>
+    </graph_set>
+    <graph_set>
+        <A A = "C22">            
+        </A>
+        <B B = "C26">
+        </B>
+    </graph_set>
+    <graph_set>
+        <A A = "C22">            
+        </A>
+        <B B = "C33">
+        </B>
+    </graph_set>
+    <graph_set>
+        <A A = "C23">            
+        </A>
+        <B B = "B15">
+        </B>
+    </graph_set>
+    <graph_set>
+        <A A = "C23">            
+        </A>
+        <B B = "C26">
+        </B>
+    </graph_set>
+    <graph_set>
+        <A A = "C23">            
+        </A>
+        <B B = "C27">
+        </B>
+    </graph_set>
+    <graph_set>
+        <A A = "C24">            
+        </A>
+        <B B = "B17">
+        </B>
+    </graph_set>
+    <graph_set>
+        <A A = "C24">            
+        </A>
+        <B B = "C25">
+        </B>
+    </graph_set>
+    <graph_set>
+        <A A = "C25">            
+        </A>
+        <B B = "B24">
+        </B>
+    </graph_set>
+    <graph_set>
+        <A A = "C25">            
+        </A>
+        <B B = "B25">
+        </B>
+    </graph_set>
+    <graph_set>
+        <A A = "C25">            
+        </A>
+        <B B = "C40">
+        </B>
+    </graph_set>
+    <graph_set>
+        <A A = "C26">            
+        </A>
+        <B B = "B16">
+        </B>
+    </graph_set>
+    <graph_set>
+        <A A = "C27">            
+        </A>
+        <B B = "B20">
+        </B>
+    </graph_set>
+    <graph_set>
+        <A A = "C27">            
+        </A>
+        <B B = "B21">
+        </B>
+    </graph_set>
+    <graph_set>
+        <A A = "C27">            
+        </A>
+        <B B = "C28">
+        </B>
+    </graph_set>
+    <graph_set>
+        <A A = "C27">            
+        </A>
+        <B B = "C35">
+        </B>
+    </graph_set>
+    <graph_set>
+        <A A = "C28">            
+        </A>
+        <B B = "B22">
+        </B>
+    </graph_set>
+    <graph_set>
+        <A A = "C28">            
+        </A>
+        <B B = "B23">
+        </B>
+    </graph_set>
+    <graph_set>
+        <A A = "C28">            
+        </A>
+        <B B = "C30">
+        </B>
+    </graph_set>
+    <graph_set>
+        <A A = "C30">            
+        </A>
+        <B B = "B26">
+        </B>
+    </graph_set>
+    <graph_set>
+        <A A = "C30">            
+        </A>
+        <B B = "C31">
+        </B>
+    </graph_set>
+    <graph_set>
+        <A A = "C31">            
+        </A>
+        <B B = "B18">
+        </B>
+    </graph_set>
+    <graph_set>
+        <A A = "C31">            
+        </A>
+        <B B = "B19">
+        </B>
+    </graph_set>
+    <graph_set>
+        <A A = "C31">            
+        </A>
+        <B B = "C41">
+        </B>
+    </graph_set>
+    <graph_set>
+        <A A = "C33">            
+        </A>
+        <B B = "C34">
+        </B>
+    </graph_set>
+    <graph_set>
+        <A A = "C34">            
+        </A>
+        <B B = "C35">
+        </B>
+    </graph_set>
+    <graph_set>
+        <A A = "C36">            
+        </A>
+        <B B = "C37">
+        </B>
+    </graph_set>
+    <graph_set>
+        <A A = "C38">            
+        </A>
+        <B B = "B4">
+        </B>
+    </graph_set>
+    <graph_set>
+        <A A = "C38">            
+        </A>
+        <B B = "C39">
+        </B>
+    </graph_set>
+    <graph_set>
+        <A A = "C39">            
+        </A>
+        <B B = "B5">
+        </B>
+    </graph_set>
+    <graph_set>
+        <A A = "C40">            
+        </A>
+        <B B = "C41">
+        </B>
+    </graph_set>
+    <graph_set>
+        <A A = "C40">            
+        </A>
+        <B B = "C42">
+        </B>
+    </graph_set>
+    <graph_set>
+        <A A = "C42">            
+        </A>
+        <B B = "B18">
+        </B>
+    </graph_set>
+</graph_list>

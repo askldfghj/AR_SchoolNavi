@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cross_list>
+    <cross_set>
+        <lati lati = "35.074406">
+        </lati>
+        <long long = "129.086020">
+        </long>
+        <id id = "C1">
+        </id>
+    </cross_set>
+    <cross_set>
+        <lati lati = "35.074770">
+        </lati>
+        <long long = "129.086815">
+        </long>
+        <id id = "C2">
+        </id>
+    </cross_set>
+    <cross_set>
+        <lati lati = "35.075261">
+        </lati>
+        <long long = "129.087176">
+        </long>
+        <id id = "C3">
+        </id>
+    </cross_set>
+    <cross_set>
+        <lati lati = "35.075017">
+        </lati>
+        <long long = "129.087351">
+        </long>
+        <id id = "C4">
+        </id>
+    </cross_set>
+    <cross_set>
+        <lati lati = "35.074063">
+        </lati>
+        <long long = "129.086269">
+        </long>
+        <id id = "C5">
+        </id>
+    </cross_set>
+    <cross_set>
+        <lati lati = "35.074315">
+        </lati>
+        <long long = "129.086912">
+        </long>
+        <id id = "C6">
+        </id>
+    </cross_set>
+    <cross_set>
+        <lati lati = "35.074734">
+        </lati>
+        <long long = "129.087522">
+        </long>
+        <id id = "C7">
+        </id>
+    </cross_set>
+    <cross_set>
+        <lati lati = "35.073660">
+        </lati>
+        <long long = "129.086531">
+        </long>
+        <id id = "C8">
+        </id>
+    </cross_set>
+    <cross_set>
+        <lati lati = "35.074003">
+        </lati>
+        <long long = "129.087282">
+        </long>
+        <id id = "C9">
+        </id>
+    </cross_set>
+    <cross_set>
+        <lati lati = "35.074410">
+        </lati>
+        <long long = "129.087760">
+        </long>
+        <id id = "C10">
+        </id>
+    </cross_set>
+    <cross_set>
+        <lati lati = "35.074258">
+        </lati>
+        <long long = "129.087858">
+        </long>
+        <id id = "C11">
+        </id>
+    </cross_set>
+    <cross_set>
+        <lati lati = "35.072945">
+        </lati>
+        <long long = "129.087007">
+        </long>
+        <id id = "C12">
+        </id>
+    </cross_set>
+    <cross_set>
+        <lati lati = "35.074524">
+        </lati>
+        <long long = "129.088484">
+        </long>
+        <id id = "C13">
+        </id>
+    </cross_set>
+    <cross_set>
+        <lati lati = "35.074019">
+        </lati>
+        <long long = "129.088787">
+        </long>
+        <id id = "C14">
+        </id>
+    </cross_set>
+    <cross_set>
+        <lati lati = "35.073616">
+        </lati>
+        <long long = "129.089001">
+        </long>
+        <id id = "C15">
+        </id>
+    </cross_set>
+    <cross_set>
+        <lati lati = "35.073983">
+        </lati>
+        <long long = "129.089908">
+        </long>
+        <id id = "C16">
+        </id>
+    </cross_set>
+    <cross_set>
+        <lati lati = "35.074218">
+        </lati>
+        <long long = "129.089060">
+        </long>
+        <id id = "C17">
+        </id>
+    </cross_set>
+    <cross_set>
+        <lati lati = "35.074294">
+        </lati>
+        <long long = "129.089386">
+        </long>
+        <id id = "C18">
+        </id>
+    </cross_set>
+    <cross_set>
+        <lati lati = "35.074801">
+        </lati>
+        <long long = "129.089099">
+        </long>
+        <id id = "C19">
+        </id>
+    </cross_set>
+    <cross_set>
+        <lati lati = "35.075605">
+        </lati>
+        <long long = "129.088593">
+        </long>
+        <id id = "C20">
+        </id>
+    </cross_set>
+    <cross_set>
+        <lati lati = "35.076451">
+        </lati>
+        <long long = "129.087988">
+        </long>
+        <id id = "C21">
+        </id>
+    </cross_set>
+    <cross_set>
+        <lati lati = "35.077014">
+        </lati>
+        <long long = "129.089066">
+        </long>
+        <id id = "C22">
+        </id>
+    </cross_set>
+    <cross_set>
+        <lati lati = "35.077329">
+        </lati>
+        <long long = "129.089763">
+        </long>
+        <id id = "C23">
+        </id>
+    </cross_set>
+    <cross_set>
+        <lati lati = "35.075465">
+        </lati>
+        <long long = "129.090442">
+        </long>
+        <id id = "C24">
+        </id>
+    </cross_set>
+    <cross_set>
+        <lati lati = "35.075489">
+        </lati>
+        <long long = "129.090842">
+        </long>
+        <id id = "C25">
+        </id>
+    </cross_set>
+    <cross_set>
+        <lati lati = "35.076929">
+        </lati>
+        <long long = "129.089554">
+        </long>
+        <id id = "C26">
+        </id>
+    </cross_set>
+    <cross_set>
+        <lati lati = "35.077955">
+        </lati>
+        <long long = "129.089598">
+        </long>
+        <id id = "C27">
+        </id>
+    </cross_set>
+    <cross_set>
+        <lati lati = "35.078326">
+        </lati>
+        <long long = "129.090505">
+        </long>
+        <id id = "C28">
+        </id>
+    </cross_set>
+    <cross_set>
+        <lati lati = "35.078749">
+        </lati>
+        <long long = "129.091861">
+        </long>
+        <id id = "C30">
+        </id>
+    </cross_set>
+    <cross_set>
+        <lati lati = "35.076846">
+        </lati>
+        <long long = "129.091173">
+        </long>
+        <id id = "C31">
+        </id>
+    </cross_set>
+    <cross_set>
+        <lati lati = "35.076694">
+        </lati>
+        <long long = "129.088379">
+        </long>
+        <id id = "C33">
+        </id>
+    </cross_set>
+    <cross_set>
+        <lati lati = "35.077349">
+        </lati>
+        <long long = "129.088179">
+        </long>
+        <id id = "C34">
+        </id>
+    </cross_set>
+    <cross_set>
+        <lati lati = "35.078111">
+        </lati>
+        <long long = "129.089491">
+        </long>
+        <id id = "C35">
+        </id>
+    </cross_set>
+    <cross_set>
+        <lati lati = "35.074899">
+        </lati>
+        <long long = "129.085695">
+        </long>
+        <id id = "C36">
+        </id>
+    </cross_set>
+    <cross_set>
+        <lati lati = "35.076611">
+        </lati>
+        <long long = "129.087172">
+        </long>
+        <id id = "C37">
+        </id>
+    </cross_set>
+    <cross_set>
+        <lati lati = "35.075573">
+        </lati>
+        <long long = "129.087016">
+        </long>
+        <id id = "C38">
+        </id>
+    </cross_set>
+    <cross_set>
+        <lati lati = "35.075793">
+        </lati>
+        <long long = "129.087597">
+        </long>
+        <id id = "C39">
+        </id>
+    </cross_set>
+    <cross_set>
+        <lati lati = "35.076153">
+        </lati>
+        <long long = "129.091634">
+        </long>
+        <id id = "C40">
+        </id>
+    </cross_set>
+    <cross_set>
+        <lati lati = "35.076521">
+        </lati>
+        <long long = "129.091699">
+        </long>
+        <id id = "C41">
+        </id>
+    </cross_set>
+    <cross_set>
+        <lati lati = "35.076531">
+        </lati>
+        <long long = "129.090635">
+        </long>
+        <id id = "C42">
+        </id>
+    </cross_set>
+</cross_list>
